@@ -15,4 +15,4 @@ Installation
 To run, download rock_paper_scissors.js, navigate to the directory where it is stored,  and open using your favorite browser.
 Author
 ----------
-Written by Veronica Hanus (@vzhz), who hopes you get up and play a rousing game of *** soon.
+Written by Veronica Hanus (@vzhz), who hopes you get up and play a rousing game of [rock, paper, scissors, *catch*!](http://www.teachingideas.co.uk/pe/rockpaperscissorscatch.htm) soon.
